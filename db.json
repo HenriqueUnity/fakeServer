@@ -7,6 +7,12 @@
           "password": "123456",
           "id": 1,
           "token": "123456"
+        },
+        {
+          "email": "henrique@gmail.com",
+          "password": "123456",
+          "id": 1,
+          "token": "654321"
         }
       ]
     }
